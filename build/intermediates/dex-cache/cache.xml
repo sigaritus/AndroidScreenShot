@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="I:\challenger\ScreenShot\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="I:\challenger\ScreenShot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_df42aed95531a36020d19321737c1b78cfed2170\classes.dex" />
+    </item>
+    <item
+        jar="E:\backup_F\android-sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="I:\challenger\ScreenShot\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_5453877d0525af1cc17fd9c3a58a415ea9a32696\classes.dex" />
+    </item>
+    <item
+        jar="I:\challenger\ScreenShot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d9b11b92959165b0cc20d7823f797f9d50b220d">
+        <dex dex="I:\challenger\ScreenShot\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a62096883e1ee1a0bc3306d0b120d9792730ca02\classes.dex" />
+    </item>
+    <item
+        jar="I:\challenger\ScreenShot\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="I:\challenger\ScreenShot\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_98f06449d1dd2c240ae4adb07db7fe43cf446b73\classes.dex" />
+    </item>
+    <item
+        jar="I:\challenger\ScreenShot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="38b5e4af006286af3f0b6150430fb5245cee52e4">
+        <dex dex="I:\challenger\ScreenShot\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8d15217d2f8009164a718d2483b825bd8f47563d\classes.dex" />
+    </item>
+
+</items>
